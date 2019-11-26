@@ -1,2 +1,2 @@
-# python-code-katas
-Solving code katas in python programming language.
+# Python code katas
+### solving code wars code katas in python
